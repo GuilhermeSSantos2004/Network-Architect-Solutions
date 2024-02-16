@@ -1,13 +1,10 @@
 # Uma-An-lise-Mais-Detalhada-da-Estrutura-da-Internet
 
-
 #### Borda da Rede:
 - Hosts/sistemas finais: clientes e servidores.
 - Servidores: em Data Centers ou na Nuvem.
 
 Serve para os dispositivos finais, como: Celulares, computadores se conectarem.
-
-![Alt text](image.png)
 
 #### Redes de acesso, meio físico:
 - Links de comunicação com fio ou sem fio (Wireless).
