@@ -168,3 +168,11 @@ Criação de um modelo padronizado, internacionalmente, de protocolos de comunic
 #### Wireshark
 
 ![Alt text](image-14.png)
+
+
+#### Comandos de rede CMD
+
+### NETSTAT - o ou NETSTAT -h 
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/d0611d71-8b51-44c7-864d-057540a213ea)
+
