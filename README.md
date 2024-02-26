@@ -176,3 +176,10 @@ Criação de um modelo padronizado, internacionalmente, de protocolos de comunic
 
 ![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/d0611d71-8b51-44c7-864d-057540a213ea)
 
+
+### wget 
+
+- Ex: wget http://www.testingmcafeesites.com/index.html
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/68cfcc15-da15-435e-95f2-498b376c1929)
+
+
