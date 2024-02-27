@@ -183,3 +183,10 @@ Criação de um modelo padronizado, internacionalmente, de protocolos de comunic
 ![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/68cfcc15-da15-435e-95f2-498b376c1929)
 
 
+### NSLOOKUP
+- help
+  
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/7cbaefd9-1899-4706-a9a1-a78a191f46ee)
+
+
+
