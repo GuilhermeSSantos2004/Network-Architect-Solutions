@@ -239,7 +239,14 @@ Instalando aplicativo de captura de pacote
 - sudo ss -p | grep ssh (lista os processo)
 
 
+- man ps
+- sudo ps aux | grep ssh
+- sudo top
+- ![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/f873e06b-68a9-4416-80e5-b9c2ca1c1354)
 
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/5f6e2595-99ba-40f8-bd15-6407e7adc92f)
+
+* sudo kell <NumberTaksProcess>*
 
 
 
