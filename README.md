@@ -235,6 +235,11 @@ Instalando aplicativo de captura de pacote
 
 - ** sudo apt install tcpdump -y **
 
+- comando sudo SS (uso do sudo você tem acesso ADM) => sudo ss | grep ssh
+- sudo ss -p | grep ssh (lista os processo)
+
+
+
 
 
 
