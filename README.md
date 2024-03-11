@@ -189,4 +189,52 @@ Criação de um modelo padronizado, internacionalmente, de protocolos de comunic
 ![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/7cbaefd9-1899-4706-a9a1-a78a191f46ee)
 
 
+login: lab
+senha: lab123
+
+- ip addr
+- puTTY (SSH)
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/b22d94ee-a7be-42b1-ad17-924947736b3b)
+
+lab@lafiap:~$ sudo apt uptade -y
+-bash: sudo: comando não encontrado 
+##### Possi
+(pagote não existe, comando não existe, sem permissão)
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/e4f8ce57-7e74-4e10-91d5-d55ede0b40de)
+
+root - apt uptade -y
+apt upgrade 
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/079723d7-ee4c-4d5c-8b83-6c684527fd44)
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/984b61a4-a3d9-429e-8463-465f20676321)
+
+Atrubuindo acesso ADM
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/a668a14d-c270-40e2-8f2b-694e46e062b3)
+
+#### não foi atribuindo acesso sudo 
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/19341545-ea51-4f27-88c7-28ef591ac037)
+
++1 - add user to group sudo 
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/0ad09d5e-39fd-4ef5-80db-606999c4ea7a)
+
+adduser lab sudo 
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/11359f2e-9ce4-4fdb-a7b3-30a2e11c8582)
+
+para selecionar um comando faz necessário digitar : !<number>
+
+- sudo apt update -y
+____
+
+Instalando aplicativo de captura de pacote 
+
+- ** sudo apt install tcpdump -y **
+
+
+
 
