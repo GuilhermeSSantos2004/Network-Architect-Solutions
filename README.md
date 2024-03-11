@@ -246,7 +246,7 @@ Instalando aplicativo de captura de pacote
 
 ![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/5f6e2595-99ba-40f8-bd15-6407e7adc92f)
 
-* sudo kell <NumberTaksProcess>*
+* sudo kill <NumberTaksProcess>*
 
 
 
