@@ -248,5 +248,7 @@ Instalando aplicativo de captura de pacote
 
 * sudo kill <NumberTaksProcess>*
 
+* netstat -o (windows)
+
 
 
