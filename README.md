@@ -250,5 +250,18 @@ Instalando aplicativo de captura de pacote
 
 * netstat -o (windows)
 
+* nslookup - type=a google.com.br
+
+![image](https://github.com/GuilhermeSSantos2004/Network-Architect-Solutions/assets/107642647/4259e28f-6979-428a-a8a9-1a85afb7610a)
+checksum: 0x35ea
+length: 51 -> É a suma de payload e cabeçalho 
+camada ip - 20 
+ETH - 14
+Payload - É a mensagem enviada 
 
 
+ping -l 1500 [nomedoservidor]
+
+
+-l -> windows - cria um pagote com o tamanho estimulado 
+linux -> -s
