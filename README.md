@@ -1,4 +1,4 @@
-# Uma-An-lise-Mais-Detalhada-da-Estrutura-da-Internet
+# Uma-Analise-Mais-Detalhada-da-Estrutura-da-Internet
 
 #### Borda da Rede:
 - Hosts/sistemas finais: clientes e servidores.
